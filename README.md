@@ -8,9 +8,9 @@
 </p>
 
 ```
-85% of customer websites** experiencing significant performance degradation or complete downtime.
-Loss of transactional data** for 30% of the active users during the downtime period.
-Reduced customer trust and potential financial losses**.
+85% of customer websites experiencing significant performance degradation or complete downtime.
+Loss of transactional data for 30% of the active users during the downtime period.
+Reduced customer trust and potential financial losses.
 ```
 
 ## Timeline
